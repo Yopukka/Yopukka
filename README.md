@@ -8,7 +8,7 @@ Currently working as a Fullstack Developer at **Arkone Advisors**.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 **Backend & APIs**
 
@@ -45,7 +45,7 @@ Currently working as a Fullstack Developer at **Arkone Advisors**.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🛒 [ShopAuth — Full Stack E-Commerce](https://github.com/Yopukka/django-react-docker)
 Full stack e-commerce app with complete authentication system, role-based access, shopping cart, and admin dashboard.
@@ -70,7 +70,7 @@ Commercial real estate landing page currently deployed in production.
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
 **Arkone Advisors** — Fullstack Web Developer *(Jan 2025 – Present)*
 - Fullstack web development
@@ -83,7 +83,7 @@ Commercial real estate landing page currently deployed in production.
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 - **Software Analysis & Development** — SENA, 2025
 - **AI with Python** — Domestika, 2025
@@ -91,14 +91,14 @@ Commercial real estate landing page currently deployed in production.
 
 ---
 
-## 🌎 Languages
+# 🌎 Languages
 
 - Spanish — Native
 - English — B2
 
 ---
 
-## 📬 Contact
+# 📬 Contact
 
 [![Email](https://img.shields.io/badge/angelrestrepodev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:angelrestrepodev@gmail.com)
 [![GitHub](https://img.shields.io/badge/Yopukka-181717?style=flat&logo=github&logoColor=white)](https://github.com/Yopukka)
