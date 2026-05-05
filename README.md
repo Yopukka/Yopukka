@@ -59,6 +59,17 @@ Built with **Django REST Framework + React + Docker**.
 
 ---
 
+⚡ API Performance Optimizer — Redis Caching & Rate Limiting
+Full-stack system demonstrating real production API optimization with measurable results: **16.3x faster response times** using Redis caching. Built with Django REST Framework + React + Docker.
+
+- Redis cache layer with TTL expiry — 6.3ms → 0.39ms per request
+- Per-user rate limiting (100 req/hour) with 429 + Retry-After response
+- JWT authentication with access + refresh token rotation
+- Real-time metrics dashboard (hit rate, speedup multiplier, top users)
+- Containerized with Docker Compose
+
+---
+
 ### 🔴 [Pokédex](https://github.com/Yopukka/pokedex)
 Pokédex web app consuming the PokéAPI, with filtering by type for the first 251 Pokémon.
 Built with **Vanilla HTML, CSS & JavaScript**.
