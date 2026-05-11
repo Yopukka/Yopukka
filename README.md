@@ -70,14 +70,14 @@ Full-stack system demonstrating real production API optimization with measurable
 
 ---
 
-### 🔴 [Pokédex](https://github.com/Yopukka/pokeddex)
-Pokédex web app consuming the PokéAPI, with filtering by type for the first 251 Pokémon.
-Built with **Vanilla HTML, CSS & JavaScript**.
+### 🏢 [Arkone Advisors — Landing Page](https://arkoneadvisors.com)
+Commercial real estate landing page currently deployed in production.
 
 ---
 
-### 🏢 [Arkone Advisors — Landing Page](https://arkoneadvisors.com)
-Commercial real estate landing page currently deployed in production.
+### 🔴 [Pokédex](https://github.com/Yopukka/pokeddex)
+Pokédex web app consuming the PokéAPI, with filtering by type for the first 251 Pokémon.
+Built with **Vanilla HTML, CSS & JavaScript**.
 
 ---
 
