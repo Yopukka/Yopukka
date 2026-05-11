@@ -59,7 +59,7 @@ Built with **Django REST Framework + React + Docker**.
 
 ---
 
-### ⚡ [API Performance Optimizer — Redis Caching & Rate Limiting] (https://github.com/Yopukka/Api-optimitation)
+### ⚡ API Performance Optimizer — Redis Caching & Rate Limiting(https://github.com/Yopukka/Api-optimitation)
 Full-stack system demonstrating real production API optimization with measurable results: **16.3x faster response times** using Redis caching. Built with Django REST Framework + React + Docker.
 
 - Redis cache layer with TTL expiry — 6.3ms → 0.39ms per request
